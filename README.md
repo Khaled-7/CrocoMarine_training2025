@@ -1,2 +1,2 @@
 # CrocoMarine_training2025
-this is the training repo.
+clone the repo and make a branch from your laptop
